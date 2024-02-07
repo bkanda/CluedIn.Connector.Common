@@ -45,3 +45,4 @@ steps:
     parameters:
       githubReleaseInMaster: true
       publicReleaseForMaster: false
+      githubServiceConnection: cluedinbot
